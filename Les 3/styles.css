@@ -1,0 +1,55 @@
+*{
+  content: 0px;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+html{
+  font-family: helvetica;
+  width: 100vw;
+}
+
+header{
+  font-family: Poppins;
+}
+
+nav{
+  background-color: #485ff7;
+  width: 100vw;
+  font-family: Poppins;
+}
+
+main{
+  width: 100%;
+  margin: auto;
+}
+section{
+  margin: auto;
+}
+
+h2{
+  margin: 1px;
+  font-family: Poppins;
+}
+
+a{
+  color: black;
+}
+
+img {
+  float: left;
+  max-width: 20em;
+  height: auto;
+  margin: .5em;
+}
+
+footer{
+  clear: both;
+  background-color: #485ff7;
+  width: 100%;
+  margin: auto;
+  position: fixed;
+  bottom: 0px;
+}

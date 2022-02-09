@@ -1,0 +1,87 @@
+img{
+	height: 10em;
+}
+
+@media (min-width: 600px)	{
+	#een{
+		content: url("img/twee.svg")
+	}
+}
+
+@media (min-width: 620px)	{
+	#een{
+		content: url("img/drie.svg")
+	}
+}
+
+@media (min-width: 640px)	{
+	#een{
+		content: url("img/vier.svg")
+	}
+}
+
+@media (min-width: 660px)	{
+	#een{
+		content: url("img/vijf.svg")
+	}
+}
+
+@media (min-width: 680px)	{
+	#een{
+		content: url("img/zes.svg")
+	}
+}
+
+@media (min-width: 700px)	{
+	#een{
+		content: url("img/zeven.svg")
+	}
+}
+
+@media (min-width: 720px)	{
+	#een{
+		content: url("img/acht.svg")
+	}
+}
+
+}@media (min-width: 740px)	{
+	#een{
+		content: url("img/negen.svg")
+	}
+}
+
+@media (min-width: 760px)	{
+	#een{
+		content: url("img/tien.svg")
+	}
+}
+
+@media (min-width: 780px)	{
+	#een{
+		content: url("img/elf.svg")
+	}
+}
+
+@media (min-width: 800px)	{
+	#een{
+		content: url("img/twaalf.svg")
+	}
+}
+
+@media (min-width: 820px)	{
+	#een{
+		content: url("img/dertien.svg")
+	}
+}
+
+@media (min-width: 840px)	{
+	#een{
+		content: url("img/veertien.svg")
+	}
+}
+
+@media (min-width: 860px)	{
+	#een{
+		content: url("img/vijftien.svg")
+	}
+}
